@@ -20,8 +20,10 @@
 - PC1 -> 168.90.0.3 (IP address)
 - Laptop0 -> 168.90.0.4 (IP address)
 - Server0 -> 168.90.0.5 (IP address)
+- PC5 -> 168.90.0.6 (IP address)
 
 #### Right side (Connected to second switch)
 - Server1 -> 210.3.14.2 (IP address)
 - Server2 -> 210.3.14.3 (IP address)
 - PC2 -> 210.3.14.4 (IP address)
+- PC4 -> 210.3.14.5 (IP address)
